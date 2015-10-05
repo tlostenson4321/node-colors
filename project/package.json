@@ -1,0 +1,14 @@
+{
+  "name": "colorsapi",
+  "version": "0.0.0",
+  "description": "first api try",
+  "main": "webcolors.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "me",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "request": "~2.64.0"
+  }
+}
